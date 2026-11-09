@@ -15,14 +15,22 @@ I build and deploy production web and mobile applications for SaaS, ERP, POS and
 
 - **Frontend:** React, Next.js, React Native, TypeScript, Vite, Tailwind CSS
 - **Backend:** Node.js, Express, REST APIs, Socket.IO, WebRTC
-- **Data:** PostgreSQL, Firebase, SQL Server
-- **Infrastructure:** Docker, Linux, Ubuntu VPS, PM2, Vercel
+- **Data:** PostgreSQL, MongoDB, Microsoft SQL Server, Redis, Firebase, Supabase
+- **Infrastructure:** Docker, Nginx, Linux, Ubuntu VPS, PM2, AWS, Google Cloud, Vercel
 
 ## Selected work
 
 - [CreateQRCode SaaS](https://createqrcode.in) — dynamic QR generation, scan analytics and subscriptions
 - [TNB POS](https://tnbpos.in) — production POS and ordering ecosystem
 - Internal Chat, Meetings & Support Platform — real-time collaboration built with Next.js, Node.js, PostgreSQL, Socket.IO and WebRTC
+
+## Project case studies
+
+- [TNB POS](https://www.inirupampal.in/projects/tnb-pos) — billing, ERP imports, transaction edge cases, reporting and the transition from WhatsApp ordering.
+- [TNB Ordering](https://www.inirupampal.in/projects/tnb-ordering) — the mobile ordering application used daily by 200+ franchises.
+- [Hisab Restro](https://www.inirupampal.in/projects/hisab-restro) — restaurant billing, KOT generation and table QR ordering.
+- [BuildNerd products](https://www.inirupampal.in/projects) — Catalogue, Quotes, Catalogue Studio, Create QRcode and Bookings.
+- [Portfolio source code](https://github.com/nirupampal/apple-portfolio) — Next.js, TypeScript, route-based case studies and screenshot galleries.
 
 ## Connect
 
